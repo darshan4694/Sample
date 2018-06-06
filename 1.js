@@ -1,2 +1,2 @@
 console.log("Hello");
-console.log("From develop");
+console.log("From develo");
